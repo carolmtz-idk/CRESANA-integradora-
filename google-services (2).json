@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872933603577",
+    "project_id": "cresana-c85db",
+    "storage_bucket": "cresana-c85db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872933603577:android:b3cb783113eca75d844a28",
+        "android_client_info": {
+          "package_name": "com.companyname.cresana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwFEcEFtl82Pw8LkKaAEpgEbr0Q8UEoqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
